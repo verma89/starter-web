@@ -1,6 +1,7 @@
 ### Starter Web Project
 
-This repository is for showing how Git and GitHub work
+The purpose of this repository is for showing how Git and GitHub work.
+
 ## Introduction
 
 ## Purpose
