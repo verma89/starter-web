@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
 	Enter name, role and twitter id
+	Abhishek Verma  abhi@gittraining.com  verma89
 
 # THANKS
 
