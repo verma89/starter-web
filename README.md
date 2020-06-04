@@ -15,6 +15,8 @@ Adding deployment news
 
 ## How to contribute
 Methods to contribute.
+Please fork this repository and issue PR for review.
+
 
 ##Copyright
 2014 git.copyright
