@@ -7,6 +7,7 @@ The purpose of this repository is for showing how Git and GitHub work.
 An introduction to git and github working.
 
 ## Purpose
+Adding the Purpose of this repository.
 
 ## Deployment
 
