@@ -16,5 +16,7 @@ Adding deployment news
 ## How to contribute
 Methods to contribute.
 
+##Copyright
+2014 git.copyright
 
 Sample website with plenty of files for demos
