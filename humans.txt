@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Enter name, role and twitter id
 
 # THANKS
 

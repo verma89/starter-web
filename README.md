@@ -10,7 +10,11 @@ An introduction to git and github working.
 Adding the Purpose of this repository.
 
 ## Deployment
+Adding deployment news
+
 
 ## How to contribute
+Methods to contribute.
+
 
 Sample website with plenty of files for demos
